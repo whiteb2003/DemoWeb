@@ -15,6 +15,7 @@
 <!-- trung -->
 <!-- hai -->
 <!-- bach -->
+<!-- minh -->
 <project name="Q1_HE170135" default="default" basedir=".">
     <description>Builds, tests, and runs the project Q1_HE170135.</description>
     <import file="nbproject/build-impl.xml" />
