@@ -14,13 +14,10 @@
 <!-- sogood -->
 <!-- xyzasdas -->
 <!-- bach -->
-<<<<<<< Updated upstream
 <!-- trung -->
 <!-- hai -->
 <!-- bach -->
 <!-- minh -->
-=======
->>>>>>> Stashed changes
 <!-- bach1 -->
 <project name="Q1_HE170135" default="default" basedir=".">
     <description>Builds, tests, and runs the project Q1_HE170135.</description>
